@@ -1,0 +1,5 @@
+#,Color(HEX),Red,Green,Blue,Alcohol(%),Type
+1,#FFF897,255,248,151,5,Beer
+2,#FAE96F,250,233,111,5.5,Beer
+44,#CB1E0C,203,30,12,12,Wine
+45,#880F03,136,15,3,13,Wine
